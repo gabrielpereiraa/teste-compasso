@@ -43,14 +43,14 @@ $ git clone https://github.com/gabrielpereiraa/teste-compasso.git
 $ cd teste-compasso
 ```
 
-3) Remover quaisquer cache presente no projeto:
-```
-$ php artisan cache:clear
-```
-
-4) Para instalar as dependências do projeto:
+3) Para instalar as dependências do projeto:
 ```
 $ composer update
+```
+
+4) Remover quaisquer cache presente no projeto:
+```
+$ php artisan cache:clear
 ```
 
 5) Se o banco de dados ainda não existe, ele precisa ser criado.
