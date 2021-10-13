@@ -31,7 +31,7 @@ Funcionalidades desenvolvidas:
 <p align="left">
   💻 Linguagem: PHP <br>
   💾 Banco de Dados: MySQL (SQL) <br>
-  📚 Framework: Laravel 7 <br>
+  📚 Framework: Laravel <br>
 </p>
 
 ## 🚀 Configuração e execução
