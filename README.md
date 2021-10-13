@@ -59,7 +59,7 @@ $ php artisan cache:clear
 
 7) É necessário executar todas as migration do projeto. Para isso executamos o seguinte comando:
 ```
-$ php artisan db:migrate
+$ php artisan migrate
 ```
 
 8) Rodar!
